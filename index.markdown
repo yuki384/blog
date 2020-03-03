@@ -4,6 +4,4 @@
 
 layout: default
 ---
-# my site
 
-Hi everyone
