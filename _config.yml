@@ -34,7 +34,7 @@ remote_theme: fongandrew/hydeout
 
 plugins:
   - jekyll-feed # 元から入っている
-  - jekyll-remote-theme　# added
+  - jekyll-remote-theme # added
   - github-pages # added
 
 # Exclude from processing.
