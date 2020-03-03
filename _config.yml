@@ -30,7 +30,7 @@ twitter_username: madoreenu314
 github_username:  madoreenu
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
