@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: [mado's diary]
 description: [まどれーぬの日記です。]
 baseurl: "/blog"
+url: "https://madoreenu.github.io"
