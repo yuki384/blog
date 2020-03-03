@@ -29,10 +29,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: [madoreenu314]
 github_username:  [madoreenu]
 
-# Build settings
-theme: jekyll-theme-architect
+# theme: mininma
+remote_theme: fongandrew/hydeout
+
 plugins:
-  - jekyll-feed
+  - jekyll-feed # 元から入っている
+  - jekyll-remote-theme　# added
+  - github-pages # added
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +56,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
