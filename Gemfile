@@ -1,4 +1,4 @@
 # uncomment
 gem "github-pages", group: :jekyll_plugins
 # add gem
-gem "jekyll-theme-hydeout"
+gem "jekyll-theme-architect"
