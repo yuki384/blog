@@ -4,3 +4,6 @@
 
 layout: home
 ---
+# my site
+
+Hi everyone
