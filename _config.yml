@@ -29,9 +29,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: [madoreenu314]
 github_username:  [madoreenu]
 
-# theme: mininma
-remote_theme: fongandrew/hydeout
-
 plugins:
   - jekyll-feed # 元から入っている
   - jekyll-remote-theme # added
